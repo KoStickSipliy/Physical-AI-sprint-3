@@ -1,0 +1,47 @@
+[
+  {
+    "experiment": "baseline",
+    "original_notebook": "ap-physicalai-1\\reports\\train_baseline.ipynb",
+    "original_notebook_sha256": "2d8332a7cb032dab82c107faa8b3952f9ae60db59fc74702b3080b91816d4428",
+    "original_log_directory": "ap-physicalai-1\\logs\\baseline\\baseline",
+    "checkpoint": "model_1000.pt",
+    "checkpoint_sha256": "6245f8033112416f1efcd62c48d4daac7ef69ac297c3af0094fbd3e8b1fda1b9",
+    "packaging": "training source retained; all available training streams exported (Colab truncated early iterations); obsolete baseline inference cells omitted; installation consolidated"
+  },
+  {
+    "experiment": "max_iters_500",
+    "original_notebook": "ap-physicalai-1\\reports\\train_max_iters_500.ipynb",
+    "original_notebook_sha256": "e6ab969296a0a8ead86b41dec6cec65adb3a3981df8fc030fbc2ecd11a803e92",
+    "original_log_directory": "ap-physicalai-1\\logs\\max_iters_500\\max_iters_500",
+    "checkpoint": "model_499.pt",
+    "checkpoint_sha256": "60edc73f94d5257888fe4ec70b911b257f5cd75d12b805dd7ddf58fab22d1aaf",
+    "packaging": "training source retained; all available training streams exported (Colab truncated early iterations); obsolete baseline inference cells omitted; installation consolidated"
+  },
+  {
+    "experiment": "box_target_strong",
+    "original_notebook": "ap-physicalai-1\\reports\\train_box_target_strong.ipynb",
+    "original_notebook_sha256": "33b7cf05c801de3648a6dd511eeb915321e044f93d6404ca2ed3369e975661de",
+    "original_log_directory": "ap-physicalai-1\\logs\\box_target_strong\\box_target_strong",
+    "checkpoint": "model_1000.pt",
+    "checkpoint_sha256": "be4a61d906bcf01f7ccaa266de2f728b32870ee0d9b1502d89b96beefb3370aa",
+    "packaging": "training source retained; all available training streams exported (Colab truncated early iterations); obsolete baseline inference cells omitted; installation consolidated"
+  },
+  {
+    "experiment": "qpos_strong",
+    "original_notebook": "ap-physicalai-1\\reports\\train_qpos_strong.ipynb",
+    "original_notebook_sha256": "c2653a0d6189e28795c29cd7d8350d85418dada9e41a283221f3b2aa734b1cd9",
+    "original_log_directory": "ap-physicalai-1\\logs\\qpos_strong\\qpos_strong",
+    "checkpoint": "model_1000.pt",
+    "checkpoint_sha256": "4bcaee80cbb51b8ae9e8e9cc2f658573a3cde16dcbebead8a452362a54a53f01",
+    "packaging": "training source retained; all available training streams exported (Colab truncated early iterations); obsolete baseline inference cells omitted; installation consolidated"
+  },
+  {
+    "experiment": "own_experiment",
+    "original_notebook": "ap-physicalai-1\\reports\\train_own_experiment.ipynb",
+    "original_notebook_sha256": "7e7d495f3aa3295655567c9f0db0e5309cb67e0479fc4909a080251ddc6bc3f6",
+    "original_log_directory": "ap-physicalai-1\\logs\\own_experiment\\own_experiment",
+    "checkpoint": "model_1000.pt",
+    "checkpoint_sha256": "573dadd3b054ce721c9e60c6adf558cf1254354b4e71e0586623ece51b3c89df",
+    "packaging": "training source retained; all available training streams exported (Colab truncated early iterations); obsolete baseline inference cells omitted; installation consolidated"
+  }
+]

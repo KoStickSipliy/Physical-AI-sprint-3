@@ -1,0 +1,7 @@
+{
+  "status": "verified_saved_log",
+  "successes": 8,
+  "episodes": 10,
+  "mean_reward_inference": 1467.77,
+  "evidence": "inference.txt"
+}

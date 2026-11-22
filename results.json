@@ -1,0 +1,67 @@
+[
+  {
+    "experiment": "baseline",
+    "num_envs": 2048,
+    "max_iters": 1001,
+    "final_iteration": 1000,
+    "final_mean_reward": 1267.09,
+    "delta_reward": 0.0,
+    "duration_seconds": 1306,
+    "checkpoint": "model_1000.pt",
+    "successes": 8,
+    "episodes": 10,
+    "evaluation_status": "verified_saved_log"
+  },
+  {
+    "experiment": "max_iters_500",
+    "num_envs": 2048,
+    "max_iters": 500,
+    "final_iteration": 499,
+    "final_mean_reward": 659.86,
+    "delta_reward": -607.23,
+    "duration_seconds": 533,
+    "checkpoint": "model_499.pt",
+    "successes": null,
+    "episodes": null,
+    "evaluation_status": "not_measured_colab_limit"
+  },
+  {
+    "experiment": "box_target_strong",
+    "num_envs": 2048,
+    "max_iters": 1001,
+    "final_iteration": 1000,
+    "final_mean_reward": 4453.04,
+    "delta_reward": 3185.95,
+    "duration_seconds": 1285,
+    "checkpoint": "model_1000.pt",
+    "successes": 10,
+    "episodes": 10,
+    "evaluation_status": "user_reported_rerun"
+  },
+  {
+    "experiment": "qpos_strong",
+    "num_envs": 2048,
+    "max_iters": 1001,
+    "final_iteration": 1000,
+    "final_mean_reward": 4519.55,
+    "delta_reward": 3252.46,
+    "duration_seconds": 962,
+    "checkpoint": "model_1000.pt",
+    "successes": null,
+    "episodes": null,
+    "evaluation_status": "not_measured_colab_limit"
+  },
+  {
+    "experiment": "own_experiment",
+    "num_envs": 2048,
+    "max_iters": 1001,
+    "final_iteration": 1000,
+    "final_mean_reward": 940.23,
+    "delta_reward": -326.86,
+    "duration_seconds": 1209,
+    "checkpoint": "model_1000.pt",
+    "successes": null,
+    "episodes": null,
+    "evaluation_status": "not_measured_colab_limit"
+  }
+]

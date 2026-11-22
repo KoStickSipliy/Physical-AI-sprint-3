@@ -1,0 +1,14 @@
+{
+  "exp_name": "box_target_strong",
+  "num_envs": 2048,
+  "max_iters": 1001,
+  "seed": 1,
+  "resume": null,
+  "learning_rate": 0.001,
+  "reward_scales": {
+    "box_target": 40.0,
+    "gripper_box": 4.0,
+    "no_floor_collision": 0.25,
+    "robot_target_qpos": 0.3
+  }
+}

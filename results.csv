@@ -1,0 +1,6 @@
+﻿experiment,num_envs,max_iters,final_iteration,final_mean_reward,delta_reward,duration_seconds,checkpoint,successes,episodes,evaluation_status
+baseline,2048,1001,1000,1267.09,0.0,1306,model_1000.pt,8,10,verified_saved_log
+max_iters_500,2048,500,499,659.86,-607.23,533,model_499.pt,,,not_measured_colab_limit
+box_target_strong,2048,1001,1000,4453.04,3185.95,1285,model_1000.pt,10,10,user_reported_rerun
+qpos_strong,2048,1001,1000,4519.55,3252.46,962,model_1000.pt,,,not_measured_colab_limit
+own_experiment,2048,1001,1000,940.23,-326.86,1209,model_1000.pt,,,not_measured_colab_limit
